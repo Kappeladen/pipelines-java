@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/viuletd0046/AzureVoteApp/_apis/build/status/Kappeladen.pipelines-java?branchName=master)](https://dev.azure.com/viuletd0046/AzureVoteApp/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
